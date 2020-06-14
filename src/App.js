@@ -1,5 +1,5 @@
 import React from 'react';
-import './assets/css/style.css'
+import './assets/scss/style.scss'
 import iu from './assets/img/iu.jpg'
 
 export default function App() {
